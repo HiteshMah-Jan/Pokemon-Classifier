@@ -1,0 +1,6 @@
+The program requires the following imports:
+
+tensorflow
+numpy
+pandas
+sklearn
